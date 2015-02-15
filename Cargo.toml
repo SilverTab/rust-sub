@@ -1,0 +1,14 @@
+[package]
+
+name = "rust-sub"
+version = "0.0.1"
+authors = ["Jean-Nicolas Jolivet <z.jeannicolas.jolivet@gree.co.jp>"]
+
+
+[lib]
+name = "subtitles"
+doc = true
+
+[[bin]]
+name = "rust-sub"
+doc = false
